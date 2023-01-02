@@ -1,0 +1,426 @@
+Date/Time:       2023-01-02 15:00:45 
+Command line:    C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts\briefcase new
+
+OS Release:      Windows 10
+OS Version:      10.0.19045
+Architecture:    AMD64
+Platform:        Windows-10-10.0.19045-SP0
+
+Python exe:      C:\Program Files\Python310\python.exe
+Python version:  3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)]
+Virtual env:     False
+Conda env:       False
+
+Briefcase:       0.3.11
+Target platform: all
+Target format:   None
+
+Environment Variables:
+    ALLUSERSPROFILE=C:\ProgramData
+    APPDATA=C:\Users\tzema\AppData\Roaming
+    CHOCOLATEYINSTALL=C:\ProgramData\chocolatey
+    CHOCOLATEYLASTPATHUPDATE=133022356521885653
+    COMMONPROGRAMFILES=C:\Program Files\Common Files
+    COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+    COMMONPROGRAMW6432=C:\Program Files\Common Files
+    COMPUTERNAME=LAPTOP-T-D-613
+    COMSPEC=C:\WINDOWS\system32\cmd.exe
+    DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+    FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+    FPS_BROWSER_USER_PROFILE_STRING=Default
+    HOMEDRIVE=C:
+    HOMEPATH=\Users\tzema
+    IDEA_INITIAL_DIRECTORY=C:\Users\tzema\Documents\GitHub\byteinterp
+    JAVA_HOME=C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08
+    LOCALAPPDATA=C:\Users\tzema\AppData\Local
+    LOGONSERVER=\\LAPTOP-T-D-613
+    NUMBER_OF_PROCESSORS=8
+    ONEDRIVE=C:\Users\tzema\OneDrive - Yesodei HaTorah College
+    ONEDRIVECOMMERCIAL=C:\Users\tzema\OneDrive - Yesodei HaTorah College
+    ONEDRIVECONSUMER=C:\Users\tzema\OneDrive
+    OS=Windows_NT
+    PATH=C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-18.0.1.1\bin\javac;C:\Program Files\Java\jdk-18.0.1.1\bin\jar;C:\Users\tzema\Downloads\itch-plan-install\itch-plan-install\vendor\;C:\ProgramData\chocolatey\bin;C:\Users\tzema\AppData\Local\Vbsedit\x64;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\tzema\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\;C:\Users\tzema\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4\bin\;C:\gradle\gradle-7.5.1\bin\;C:\ProgramData\chocolatey\lib\make\tools\install\bin\;C:\Users\tzema\Downloads\nasm-2.15.05-win64\nasm-2.15.05\;C:\Users\tzema\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\;C:\masm32\bin;C:\Users\tzema\Documents\GitHub\easm\;C:\Program Files\Git\;C:\Program Files\Git\bin\;C:\Users\tzema\Documents\GitHub\ebOS\ebOS\bin\Debug\net6.0\;C:\Program Files\IronPython 3.4\;C:\Users\tzema\Downloads\pypy3.9-v7.3.10-win64\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\;C:\Users\tzema\AppData\Local\Microsoft\WindowsApps;C:\Users\tzema\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;C:\Users\tzema\AppData\Local\GitHubDesktop\bin;C:\ProgramData\tzema\GitHubDesktop\bin;C:\Users\tzema\AppData\Roaming\npm
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.EASM
+    PROCESSOR_ARCHITECTURE=AMD64
+    PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=8e0c
+    PROGRAMDATA=C:\ProgramData
+    PROGRAMFILES=C:\Program Files
+    PROGRAMFILES(X86)=C:\Program Files (x86)
+    PROGRAMW6432=C:\Program Files
+    PROMPT=$P$G
+    PSMODULEPATH=%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+    PUBLIC=C:\Users\Public
+    PYCHARM COMMUNITY EDITION=C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;
+    SYSTEMDRIVE=C:
+    SYSTEMROOT=C:\WINDOWS
+    TEMP=C:\Users\tzema\AppData\Local\Temp
+    TERMINAL_EMULATOR=JetBrains-JediTerm
+    TERM_SESSION_ID=a7ce6973-828e-431e-ae84-3569f33be36d
+    TMP=C:\Users\tzema\AppData\Local\Temp
+    USERDOMAIN=LAPTOP-T-D-613
+    USERDOMAIN_ROAMINGPROFILE=LAPTOP-T-D-613
+    USERNAME=tzema
+    USERPROFILE=C:\Users\tzema
+    VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+    WINDIR=C:\WINDOWS
+    WSLENV=WT_SESSION::WT_PROFILE_ID
+    WT_PROFILE_ID={0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+    WT_SESSION=0de92ace-1b54-4859-b0c4-fb5d230e1a9a
+    ZES_ENABLE_SYSMAN=1
+    __INTELLIJ_COMMAND_HISTFILE__=C:\Users\tzema\AppData\Local\JetBrains\PyCharmCE2022.2\terminal\history\beeware-console-history1
+
+Briefcase Log:
+[14:58:17]                                                                                                                                                                new.py:477
+           Let's build a new Briefcase app!                                                                                                                               new.py:478
+                                                                                                                                                                          new.py:479
+                                                                                                                                                                          new.py:273
+           First, we need a formal name for your application. This is the name that will                                                                                            
+           be displayed to humans whenever the name of the application is displayed. It                                                                                             
+           can have spaces and punctuation if you like, and any capitalization will be                                                                                              
+           used as you type it.                                                                                                                                                     
+                                                                                                                                                                          new.py:276
+[14:58:44] Formal Name [Hello World]:                                                                                                                                     new.py:335
+           >>> User input: Console                                                                                                                                        new.py:335
+                                                                                                                                                                          new.py:273
+           Next, we need a name that can serve as a machine-readable Python package name                                                                                            
+           for your application. This name must be PEP508-compliant - that means the name                                                                                           
+           may only contain letters, numbers, hyphens and underscores; it can't contain                                                                                             
+           spaces or punctuation, and it can't start with a hyphen or underscore.                                                                                                   
+                                                                                                                                                                                    
+           Based on your formal name, we suggest an app name of 'console',                                                                                                          
+           but you can use another name if you want.                                                                                                                                
+                                                                                                                                                                          new.py:276
+[14:58:53] App Name [console]:                                                                                                                                            new.py:349
+           >>> User input:                                                                                                                                                new.py:349
+                                                                                                                                                                          new.py:273
+           Now we need a bundle identifier for your application. App stores need to                                                                                                 
+           protect against having multiple applications with the same name; the bundle                                                                                              
+           identifier is the namespace they use to identify applications that come from                                                                                             
+           you. The bundle identifier is usually the domain name of your company or                                                                                                 
+           project, in reverse order.                                                                                                                                               
+                                                                                                                                                                                    
+           For example, if you are writing an application for Example Corp, whose website                                                                                           
+           is example.com, your bundle would be ``com.example``. The bundle will be                                                                                                 
+           combined with your application's machine readable name to form a complete                                                                                                
+           application identifier (e.g., com.example.console).                                                                                                                      
+                                                                                                                                                                          new.py:276
+[14:59:09] Bundle Identifier [com.example]:                                                                                                                               new.py:366
+           >>> User input:                                                                                                                                                new.py:366
+                                                                                                                                                                          new.py:273
+           Briefcase can manage projects that contain multiple applications, so we need a                                                                                           
+           Project name. If you're only planning to have one application in this                                                                                                    
+           project, you can use the formal name as the project name.                                                                                                                
+                                                                                                                                                                          new.py:276
+[14:59:18] Project Name [Console]:                                                                                                                                        new.py:383
+           >>> User input:                                                                                                                                                new.py:383
+                                                                                                                                                                          new.py:273
+           Now, we need a one line description for your application.                                                                                                                
+                                                                                                                                                                          new.py:276
+[14:59:52] Description [My first application]:                                                                                                                            new.py:392
+           >>> User input: A console in beeware                                                                                                                           new.py:392
+                                                                                                                                                                          new.py:273
+           Who do you want to be credited as the author of this application? This could be                                                                                          
+           your own name, or the name of your company you work for.                                                                                                                 
+                                                                                                                                                                          new.py:276
+[14:59:59] Author [Jane Developer]:                                                                                                                                       new.py:399
+           >>> User input: coolcoder613                                                                                                                                   new.py:399
+                                                                                                                                                                          new.py:273
+           What email address should people use to contact the developers of this                                                                                                   
+           application? This might be your own email address, or a generic contact address                                                                                          
+           you set up specifically for this application.                                                                                                                            
+                                                                                                                                                                          new.py:276
+[15:00:18] Author's Email [coolcoder613@example.com]:                                                                                                                     new.py:407
+           >>> User input: coolcoder613@outlook.com                                                                                                                       new.py:407
+                                                                                                                                                                          new.py:273
+           What is the website URL for this application? If you don't have a website set                                                                                            
+           up yet, you can put in a dummy URL.                                                                                                                                      
+                                                                                                                                                                          new.py:276
+[15:00:23] Application URL [https://example.com/console]:                                                                                                                 new.py:417
+           >>> User input:                                                                                                                                                new.py:417
+                                                                                                                                                                          new.py:306
+           What license do you want to use for this project's code?                                                                                                                 
+[15:00:40]                                                                                                                                                                new.py:321
+           Select one of the following:                                                                                                                                             
+                                                                                                                                                                                    
+               [1] BSD license                                                                                                                                                      
+               [2] MIT license                                                                                                                                                      
+               [3] Apache Software License                                                                                                                                          
+               [4] GNU General Public License v2 (GPLv2)                                                                                                                            
+               [5] GNU General Public License v2 or later (GPLv2+)                                                                                                                  
+               [6] GNU General Public License v3 (GPLv3)                                                                                                                            
+               [7] GNU General Public License v3 or later (GPLv3+)                                                                                                                  
+               [8] Proprietary                                                                                                                                                      
+               [9] Other                                                                                                                                                            
+                                                                                                                                                                                    
+           Project License [1]:                                                                                                                                                     
+           >>> User input: 2                                                                                                                                              new.py:321
+                                                                                                                                                                          new.py:306
+           What GUI toolkit do you want to use for this project?                                                                                                                    
+[15:00:42]                                                                                                                                                                new.py:321
+           Select one of the following:                                                                                                                                             
+                                                                                                                                                                                    
+               [1] Toga                                                                                                                                                             
+               [2] PySide2 (does not support iOS/Android deployment)                                                                                                                
+               [3] PySide6 (does not support iOS/Android deployment)                                                                                                                
+               [4] PursuedPyBear (does not support iOS/Android deployment)                                                                                                          
+               [5] None                                                                                                                                                             
+                                                                                                                                                                                    
+           GUI Framework [1]:                                                                                                                                                       
+           >>> User input: 1                                                                                                                                              new.py:321
+                                                                                                                                                                          new.py:483
+           Generating a new application 'Console'                                                                                                                         new.py:484
+[15:00:45]                                                                                                                                                            __main__.py:27
+           Unable to clone template repository; is your computer offline?                                                                                             __main__.py:28
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\base.py:717 in generate_template                                                                │
+│                                                                                                                                                                                  │
+│   714 │   │                                                                                                                                                                      │
+│   715 │   │   try:                                                                                                                                                               │
+│   716 │   │   │   # Unroll the template                                                                                                                                          │
+│ ❱ 717 │   │   │   self.tools.cookiecutter(                                                                                                                                       │
+│   718 │   │   │   │   str(cached_template),                                                                                                                                      │
+│   719 │   │   │   │   no_input=True,                                                                                                                                             │
+│   720 │   │   │   │   output_dir=str(output_path),                                                                                                                               │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────── locals ──────────────────────────────────────╮                                                                                           │
+│ │          branch = 'v0.3.11'                                                        │                                                                                           │
+│ │ cached_template = 'https://github.com/beeware/briefcase-template'                  │                                                                                           │
+│ │   extra_context = {                                                                │                                                                                           │
+│ │                   │   'formal_name': 'Console',                                    │                                                                                           │
+│ │                   │   'app_name': 'console',                                       │                                                                                           │
+│ │                   │   'class_name': 'Console',                                     │                                                                                           │
+│ │                   │   'module_name': 'console',                                    │                                                                                           │
+│ │                   │   'project_name': 'Console',                                   │                                                                                           │
+│ │                   │   'description': 'A console in beeware',                       │                                                                                           │
+│ │                   │   'author': 'coolcoder613',                                    │                                                                                           │
+│ │                   │   'author_email': 'coolcoder613@outlook.com',                  │                                                                                           │
+│ │                   │   'bundle': 'com.example',                                     │                                                                                           │
+│ │                   │   'url': 'https://example.com/console',                        │                                                                                           │
+│ │                   │   ... +2                                                       │                                                                                           │
+│ │                   }                                                                │                                                                                           │
+│ │     output_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console')   │                                                                                           │
+│ │            self = <briefcase.commands.new.NewCommand object at 0x000001A09999B730> │                                                                                           │
+│ │        template = 'https://github.com/beeware/briefcase-template'                  │                                                                                           │
+│ ╰────────────────────────────────────────────────────────────────────────────────────╯                                                                                           │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cookiecutter\main.py:69 in cookiecutter                                                                            │
+│                                                                                                                                                                                  │
+│    66 │   │   default_config=default_config,                                                                                                                                     │
+│    67 │   )                                                                                                                                                                      │
+│    68 │                                                                                                                                                                          │
+│ ❱  69 │   repo_dir, cleanup = determine_repo_dir(                                                                                                                                │
+│    70 │   │   template=template,                                                                                                                                                 │
+│    71 │   │   abbreviations=config_dict['abbreviations'],                                                                                                                        │
+│    72 │   │   clone_to_dir=config_dict['cookiecutters_dir'],                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────────────────────╮                       │
+│ │        accept_hooks = True                                                                                                                             │                       │
+│ │            checkout = 'v0.3.11'                                                                                                                        │                       │
+│ │         config_dict = {                                                                                                                                │                       │
+│ │                       │   'cookiecutters_dir': 'C:\\Users\\tzema/.cookiecutters/',                                                                     │                       │
+│ │                       │   'replay_dir': 'C:\\Users\\tzema/.cookiecutter_replay/',                                                                      │                       │
+│ │                       │   'default_context': OrderedDict(),                                                                                            │                       │
+│ │                       │   'abbreviations': {                                                                                                           │                       │
+│ │                       │   │   'gh': 'https://github.com/{0}.git',                                                                                      │                       │
+│ │                       │   │   'gl': 'https://gitlab.com/{0}.git',                                                                                      │                       │
+│ │                       │   │   'bb': 'https://bitbucket.org/{0}'                                                                                        │                       │
+│ │                       │   }                                                                                                                            │                       │
+│ │                       }                                                                                                                                │                       │
+│ │         config_file = None                                                                                                                             │                       │
+│ │      default_config = False                                                                                                                            │                       │
+│ │           directory = None                                                                                                                             │                       │
+│ │       extra_context = {                                                                                                                                │                       │
+│ │                       │   'formal_name': 'Console',                                                                                                    │                       │
+│ │                       │   'app_name': 'console',                                                                                                       │                       │
+│ │                       │   'class_name': 'Console',                                                                                                     │                       │
+│ │                       │   'module_name': 'console',                                                                                                    │                       │
+│ │                       │   'project_name': 'Console',                                                                                                   │                       │
+│ │                       │   'description': 'A console in beeware',                                                                                       │                       │
+│ │                       │   'author': 'coolcoder613',                                                                                                    │                       │
+│ │                       │   'author_email': 'coolcoder613@outlook.com',                                                                                  │                       │
+│ │                       │   'bundle': 'com.example',                                                                                                     │                       │
+│ │                       │   'url': 'https://example.com/console',                                                                                        │                       │
+│ │                       │   ... +2                                                                                                                       │                       │
+│ │                       }                                                                                                                                │                       │
+│ │            no_input = True                                                                                                                             │                       │
+│ │          output_dir = 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console'                                                                           │                       │
+│ │ overwrite_if_exists = False                                                                                                                            │                       │
+│ │            password = None                                                                                                                             │                       │
+│ │              replay = None                                                                                                                             │                       │
+│ │ skip_if_file_exists = False                                                                                                                            │                       │
+│ │            template = 'https://github.com/beeware/briefcase-template'                                                                                  │                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                       │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cookiecutter\repository.py:106 in determine_repo_dir                                                               │
+│                                                                                                                                                                                  │
+│   103 │   │   repository_candidates = [unzipped_dir]                                                                                                                             │
+│   104 │   │   cleanup = True                                                                                                                                                     │
+│   105 │   elif is_repo_url(template):                                                                                                                                            │
+│ ❱ 106 │   │   cloned_repo = clone(                                                                                                                                               │
+│   107 │   │   │   repo_url=template,                                                                                                                                             │
+│   108 │   │   │   checkout=checkout,                                                                                                                                             │
+│   109 │   │   │   clone_to_dir=clone_to_dir,                                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────╮                                                  │
+│ │ abbreviations = {'gh': 'https://github.com/{0}.git', 'gl': 'https://gitlab.com/{0}.git', 'bb': 'https://bitbucket.org/{0}'} │                                                  │
+│ │      checkout = 'v0.3.11'                                                                                                   │                                                  │
+│ │  clone_to_dir = 'C:\\Users\\tzema/.cookiecutters/'                                                                          │                                                  │
+│ │     directory = None                                                                                                        │                                                  │
+│ │      no_input = True                                                                                                        │                                                  │
+│ │      password = None                                                                                                        │                                                  │
+│ │      template = 'https://github.com/beeware/briefcase-template'                                                             │                                                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                  │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cookiecutter\vcs.py:95 in clone                                                                                    │
+│                                                                                                                                                                                  │
+│    92 │                                                                                                                                                                          │
+│    93 │   if clone:                                                                                                                                                              │
+│    94 │   │   try:                                                                                                                                                               │
+│ ❱  95 │   │   │   subprocess.check_output(  # nosec                                                                                                                              │
+│    96 │   │   │   │   [repo_type, 'clone', repo_url],                                                                                                                            │
+│    97 │   │   │   │   cwd=clone_to_dir,                                                                                                                                          │
+│    98 │   │   │   │   stderr=subprocess.STDOUT,                                                                                                                                  │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                        │
+│ │     checkout = 'v0.3.11'                                                                              │                                                                        │
+│ │        clone = True                                                                                   │                                                                        │
+│ │ clone_to_dir = 'C:\\Users\\tzema/.cookiecutters/'                                                     │                                                                        │
+│ │     no_input = True                                                                                   │                                                                        │
+│ │       output = "Cloning into 'briefcase-template'...\nfatal: unable to access 'https://github.com"+95 │                                                                        │
+│ │     repo_dir = 'C:\\Users\\tzema\\.cookiecutters\\briefcase-template'                                 │                                                                        │
+│ │    repo_name = 'briefcase-template'                                                                   │                                                                        │
+│ │    repo_type = 'git'                                                                                  │                                                                        │
+│ │     repo_url = 'https://github.com/beeware/briefcase-template'                                        │                                                                        │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                        │
+│                                                                                                                                                                                  │
+│ C:\Program Files\Python310\lib\subprocess.py:420 in check_output                                                                                                                 │
+│                                                                                                                                                                                  │
+│    417 │   │   │   empty = b''                                                                                                                                                   │
+│    418 │   │   kwargs['input'] = empty                                                                                                                                           │
+│    419 │                                                                                                                                                                         │
+│ ❱  420 │   return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,                                                                                                      │
+│    421 │   │   │      **kwargs).stdout                                                                                                                                           │
+│    422                                                                                                                                                                           │
+│    423                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────── locals ─────────────────────────────────────╮                                                                                             │
+│ │    kwargs = {'cwd': 'C:\\Users\\tzema/.cookiecutters/', 'stderr': -2}            │                                                                                             │
+│ │ popenargs = (['git', 'clone', 'https://github.com/beeware/briefcase-template'],) │                                                                                             │
+│ │   timeout = None                                                                 │                                                                                             │
+│ ╰──────────────────────────────────────────────────────────────────────────────────╯                                                                                             │
+│                                                                                                                                                                                  │
+│ C:\Program Files\Python310\lib\subprocess.py:524 in run                                                                                                                          │
+│                                                                                                                                                                                  │
+│    521 │   │   │   raise                                                                                                                                                         │
+│    522 │   │   retcode = process.poll()                                                                                                                                          │
+│    523 │   │   if check and retcode:                                                                                                                                             │
+│ ❱  524 │   │   │   raise CalledProcessError(retcode, process.args,                                                                                                               │
+│    525 │   │   │   │   │   │   │   │   │    output=stdout, stderr=stderr)                                                                                                        │
+│    526 │   return CompletedProcess(process.args, retcode, stdout, stderr)                                                                                                        │
+│    527                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────── locals ─────────────────────────────────────────────────╮                                                                     │
+│ │ capture_output = False                                                                                   │                                                                     │
+│ │          check = True                                                                                    │                                                                     │
+│ │          input = None                                                                                    │                                                                     │
+│ │         kwargs = {'stdout': -1, 'cwd': 'C:\\Users\\tzema/.cookiecutters/', 'stderr': -2}                 │                                                                     │
+│ │      popenargs = (['git', 'clone', 'https://github.com/beeware/briefcase-template'],)                    │                                                                     │
+│ │        process = <Popen: returncode: 128 args: ['git', 'clone', 'https://github.com/beeware/b...>        │                                                                     │
+│ │        retcode = 128                                                                                     │                                                                     │
+│ │         stderr = None                                                                                    │                                                                     │
+│ │         stdout = b"Cloning into 'briefcase-template'...\nfatal: unable to access 'https://github.com"+95 │                                                                     │
+│ │        timeout = None                                                                                    │                                                                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                     │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+CalledProcessError: Command '['git', 'clone', 'https://github.com/beeware/briefcase-template']' returned non-zero exit status 128.
+
+The above exception was the direct cause of the following exception:
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\__main__.py:21 in main                                                                                   │
+│                                                                                                                                                                                  │
+│   18 │   │   options = command.parse_options(extra=extra_cmdline)                                                                                                                │
+│   19 │   │   command.check_obsolete_data_dir()                                                                                                                                   │
+│   20 │   │   command.parse_config(Path.cwd() / "pyproject.toml")                                                                                                                 │
+│ ❱ 21 │   │   command(**options)                                                                                                                                                  │
+│   22 │   except HelpText as e:                                                                                                                                                   │
+│   23 │   │   logger.info()                                                                                                                                                       │
+│   24 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────── locals ─────────────────────────────────────╮                                                                                             │
+│ │       command = <briefcase.commands.new.NewCommand object at 0x000001A09999B730> │                                                                                             │
+│ │       Command = <class 'briefcase.commands.new.NewCommand'>                      │                                                                                             │
+│ │       console = <briefcase.console.Console object at 0x000001A09999BD00>         │                                                                                             │
+│ │             e = NetworkFailure('clone template repository')                      │                                                                                             │
+│ │ extra_cmdline = []                                                               │                                                                                             │
+│ │        logger = <briefcase.console.Log object at 0x000001A09999BC40>             │                                                                                             │
+│ │       options = {'template': None}                                               │                                                                                             │
+│ │        result = 200                                                              │                                                                                             │
+│ ╰──────────────────────────────────────────────────────────────────────────────────╯                                                                                             │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\new.py:543 in __call__                                                                          │
+│                                                                                                                                                                                  │
+│   540 │   │   # Confirm all required tools are available                                       ╭────────────────────────────────── locals ───────────────────────────────────╮   │
+│   541 │   │   self.verify_tools()                                                              │  options = {}                                                               │   │
+│   542 │   │                                                                                    │     self = <briefcase.commands.new.NewCommand object at 0x000001A09999B730> │   │
+│ ❱ 543 │   │   return self.new_app(template=template, **options)                                │ template = None                                                             │   │
+│   544                                                                                          ╰─────────────────────────────────────────────────────────────────────────────╯   │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\new.py:497 in new_app                                                                           │
+│                                                                                                                                                                                  │
+│   494 │   │                                                                                    ╭────────────────────────────────── locals ───────────────────────────────────╮   │
+│   495 │   │   try:                                                                             │   branch = 'v0.3.11'                                                        │   │
+│   496 │   │   │   # Unroll the new app template                                                │  context = {                                                                │   │
+│ ❱ 497 │   │   │   self.generate_template(                                                      │            │   'formal_name': 'Console',                                    │   │
+│   498 │   │   │   │   template=template,                                                       │            │   'app_name': 'console',                                       │   │
+│   499 │   │   │   │   branch=branch,                                                           │            │   'class_name': 'Console',                                     │   │
+│   500 │   │   │   │   output_path=self.base_path,                                              │            │   'module_name': 'console',                                    │   │
+│                                                                                                │            │   'project_name': 'Console',                                   │   │
+│                                                                                                │            │   'description': 'A console in beeware',                       │   │
+│                                                                                                │            │   'author': 'coolcoder613',                                    │   │
+│                                                                                                │            │   'author_email': 'coolcoder613@outlook.com',                  │   │
+│                                                                                                │            │   'bundle': 'com.example',                                     │   │
+│                                                                                                │            │   'url': 'https://example.com/console',                        │   │
+│                                                                                                │            │   ... +2                                                       │   │
+│                                                                                                │            }                                                                │   │
+│                                                                                                │  options = {}                                                               │   │
+│                                                                                                │     self = <briefcase.commands.new.NewCommand object at 0x000001A09999B730> │   │
+│                                                                                                │ template = 'https://github.com/beeware/briefcase-template'                  │   │
+│                                                                                                │  version = <Version('0.3.11')>                                              │   │
+│                                                                                                ╰─────────────────────────────────────────────────────────────────────────────╯   │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\base.py:727 in generate_template                                                                │
+│                                                                                                                                                                                  │
+│   724 │   │   except subprocess.CalledProcessError as e:                                                                                                                         │
+│   725 │   │   │   # Computer is offline                                                                                                                                          │
+│   726 │   │   │   # status code == 128 - certificate validation error.                                                                                                           │
+│ ❱ 727 │   │   │   raise NetworkFailure("clone template repository") from e                                                                                                       │
+│   728 │   │   except cookiecutter_exceptions.RepositoryNotFound as e:                                                                                                            │
+│   729 │   │   │   # Either the template path is invalid,                                                                                                                         │
+│   730 │   │   │   # or it isn't a cookiecutter template (i.e., no cookiecutter.json)                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────── locals ──────────────────────────────────────╮                                                                                           │
+│ │          branch = 'v0.3.11'                                                        │                                                                                           │
+│ │ cached_template = 'https://github.com/beeware/briefcase-template'                  │                                                                                           │
+│ │   extra_context = {                                                                │                                                                                           │
+│ │                   │   'formal_name': 'Console',                                    │                                                                                           │
+│ │                   │   'app_name': 'console',                                       │                                                                                           │
+│ │                   │   'class_name': 'Console',                                     │                                                                                           │
+│ │                   │   'module_name': 'console',                                    │                                                                                           │
+│ │                   │   'project_name': 'Console',                                   │                                                                                           │
+│ │                   │   'description': 'A console in beeware',                       │                                                                                           │
+│ │                   │   'author': 'coolcoder613',                                    │                                                                                           │
+│ │                   │   'author_email': 'coolcoder613@outlook.com',                  │                                                                                           │
+│ │                   │   'bundle': 'com.example',                                     │                                                                                           │
+│ │                   │   'url': 'https://example.com/console',                        │                                                                                           │
+│ │                   │   ... +2                                                       │                                                                                           │
+│ │                   }                                                                │                                                                                           │
+│ │     output_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console')   │                                                                                           │
+│ │            self = <briefcase.commands.new.NewCommand object at 0x000001A09999B730> │                                                                                           │
+│ │        template = 'https://github.com/beeware/briefcase-template'                  │                                                                                           │
+│ ╰────────────────────────────────────────────────────────────────────────────────────╯                                                                                           │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+NetworkFailure: Unable to clone template repository; is your computer offline?
