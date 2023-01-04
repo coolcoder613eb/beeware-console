@@ -16,7 +16,7 @@ class Console(toga.App):
             #print(len(self.word.text.splitlines()))
             #print(list(self.word.text).count('\n'))
             #print(self.word.text.splitlines()[-20:])
-            self.word.text = '\n'.join(self.word.text.splitlines()[-20:]) + '\n' if self.word.text.endswith('\n') else ''
+            self.word.text = '\n'.join(self.word.text.splitlines()[-20:]) + ('\n' if self.word.text.endswith('\n') else '')
             self.word.refresh()
     async def input(self,text=None):
         #print('i')

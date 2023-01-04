@@ -11,6 +11,8 @@ author_email = "coolcoder613@outlook.com"
 formal_name = "Console"
 description = "A console in beeware"
 icon = "src/console/resources/console"
+installer_icon = "src/console/resources/console"
+installer_background = "src/console/resources/console"
 sources = ['src/console']
 requires = [
 ]
