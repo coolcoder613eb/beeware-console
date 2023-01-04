@@ -2,31 +2,53 @@
 A console in beeware
 """
 import toga
-import threading
+#import threading
+import time
+import asyncio
 from toga.style import Pack
 from toga.style.pack import COLUMN, LEFT, RIGHT, CENTER, ROW, Pack, TOP, BOTTOM
 
-
+#ap = print
 class Console(toga.App):
-    def input(self,text=None):
+    def upword(self):
+        if len(self.word.text.splitlines()) > 20:
+            #print('a')
+            #print(len(self.word.text.splitlines()))
+            #print(list(self.word.text).count('\n'))
+            #print(self.word.text.splitlines()[-20:])
+            self.word.text = '\n'.join(self.word.text.splitlines()[-20:]) + '\n'
+            self.word.refresh()
+    async def input(self,text=None):
+        #print('i')
         if text:
             self.word.text += text
+            self.upword()
         while not self.is_enter:
-            pass
+            #self.main_window.update()
+            #self.main_window.show()
+            self.word.refresh()
+            await asyncio.sleep(0)
         self.is_enter = False
         rtn = self.text_input.value
+        self.word.text += rtn + '\n'
         self.text_input.clear()
+        self.upword()
         return rtn
     def print(self,*args):
         self.word.text += ' '.join([str(x) for x in args]) + '\n'
+        self.word.refresh()
+        self.upword()
     def ok(self,button):
         #print(self.text_input.value)
         self.is_enter = True
 
-    def ch(self):
+    async def ch(self, *args):
         self.word.text = 'Chometz Hunt' + '\n'
+        #ap("self.word.text = 'Chometz Hunt' + '\\n'")
         print = self.print
+        #ap('print = self.print')
         input = self.input
+        #ap('input = self.input')
         #----------code-----------#
         place = 2
         numcol = ch1 = ch2 = ch3 = ch4 = ch5 = ch6 = ch7 = ch8 = ch9 = ch10 = found = 0
@@ -36,8 +58,8 @@ class Console(toga.App):
             print(place, ' ', numcol, ' ', ch1, ' ', ch2, ' ', ch3, ' ', ch4, ' ', ch5, ' ', ch6, ' ', ch7, ' ', ch8,
                   ' ', ch9, ' ', ch10, ' ', found, '\n\n')
 
-        def getsave():
-            i = input('\nenter your savecode ')
+        async def getsave():
+            i = await input('\nenter your savecode ')
             savelist = i.split()
             savelist[0] = int(savelist[0])
             savelist[1] = int(savelist[1])
@@ -72,8 +94,7 @@ class Console(toga.App):
                     print('\n\nYOU FOUND ALL THE CHAMETZ!!!!\n\n')
                     found = 1
             if place == 2:
-                i = input(
-                    '\ntype "1" for the kitchen, type "2" for the dining room, \ntype "3" for the parents bedroom, type "4" for the kids bedroom.\nType "save" to save and "load" to load a savecode.')
+                i = await input('\ntype "1" for the kitchen, type "2" for the dining room, \ntype "3" for the parents bedroom, type "4" for the kids bedroom.\nType "save" to save and "load" to load a savecode.')
                 if i == '1':
                     place = 1
                 if i == '2':
@@ -86,7 +107,7 @@ class Console(toga.App):
                     print('This number is your savecode.\n')
                     makesave()
                 if i == 'load':
-                    i = input('\nenter your savecode ')
+                    i = await input('\nenter your savecode ')
                     savelist = i.split()
                     place, numcol, ch1, ch2, ch3, ch4, ch5, ch6, ch7, ch8, ch9, ch10, found = int(savelist[0]), int(
                         savelist[1]), int(savelist[2]), int(savelist[3]), int(savelist[4]), int(savelist[5]), int(
@@ -94,7 +115,7 @@ class Console(toga.App):
                         savelist[11]), int(savelist[12])
             if place == 1:
                 print('\nYou look around the kitchen.\nYou see 1.a cupboard 2.the oven and 3.the freezer')
-                i = input('type "back" to go back or type "1", "2" or "3" to look more closely')
+                i = await input('type "back" to go back or type "1", "2" or "3" to look more closely')
                 if i == 'back':
                     place = 2
                 if i == '1':
@@ -105,7 +126,7 @@ class Console(toga.App):
                     place = 13
             if place == 11:
                 print('\nInside the cupboard you see \n1.a box of cornflakes and 2.a box of rice bubbles.')
-                i = input('type "back" to go back or type "1" or "2" to look more closely')
+                i = await input('type "back" to go back or type "1" or "2" to look more closely')
                 if i == '1':
                     print('\nYou look behind the cornflakes.')
                     place = 11
@@ -114,7 +135,7 @@ class Console(toga.App):
                 if i == '2':
                     if ch1 == 0:
                         print('\nBehind the rice bubbles you see... \n1.a piece of bread in a plastic bag')
-                        i = input('type "back" to go back or type "1" to look more closely')
+                        i = await input('type "back" to go back or type "1" to look more closely')
                         ch1 = 1
                     else:
                         print('\nYou look behind the rice bubbles.')
@@ -132,7 +153,7 @@ class Console(toga.App):
                 if ch2 == 0:
                     print(
                         '\nAs you open the freezer, \n1.a piece of bread in a plastic bag tumbles down from where it was hidden on the freezer door.')
-                    i = input('type "back" to go back or type "1" to look more closely')
+                    i = await input('type "back" to go back or type "1" to look more closely')
                     if i == '1':
                         numcol += 1
                         print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -145,7 +166,7 @@ class Console(toga.App):
                     place = 1
             if place == 3:
                 print('\nYou look around the dining room. \nYou see 1.the table, 2.the couch and 3.a bookshelf.')
-                i = input('type "back" to go back or type "1", "2" or "3" to look more closely')
+                i = await input('type "back" to go back or type "1", "2" or "3" to look more closely')
                 if i == 'back':
                     place = 2
                 if i == '1':
@@ -160,7 +181,7 @@ class Console(toga.App):
             if place == 32:
                 if ch3 == 0:
                     print('\nAs you look behind the couch cushions, you see...\n1.a piece of bread in a plastic bag')
-                    i = input('type "back" to go back or type "1" to look more closely')
+                    i = await input('type "back" to go back or type "1" to look more closely')
                     if i == '1':
                         numcol += 1
                         print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -174,7 +195,7 @@ class Console(toga.App):
             if place == 33:
                 if ch4 == 0:
                     print('\nAs you look behind the books, you see...\n1.a piece of bread in a plastic bag')
-                    i = input('type "back" to go back or type "1" to look more closely')
+                    i = await input('type "back" to go back or type "1" to look more closely')
                     if i == '1':
                         numcol += 1
                         print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -188,7 +209,7 @@ class Console(toga.App):
             if place == 4:
                 print(
                     '\nAs you look around the bedroom you see \n1.a queen bed and 2.a king bed with \n3.a bedside table between them.')
-                i = input('type "back" to go back or type "1", "2" or "3" to look more closely')
+                i = await input('type "back" to go back or type "1", "2" or "3" to look more closely')
                 if i == 'back':
                     place = 2
                 if i == '1':
@@ -201,7 +222,7 @@ class Console(toga.App):
                 if ch5 == 0:
                     print(
                         '\nYou look under the blanket. \nAs you look under the pillow you see \n1.a piece of bread in a plastic bag.')
-                    i = input('type "back" to go back or type "1" to look more closely')
+                    i = await input('type "back" to go back or type "1" to look more closely')
                     if i == '1':
                         numcol += 1
                         print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -216,7 +237,7 @@ class Console(toga.App):
                 if ch6 == 0:
                     print(
                         '\nAs you look under the blanket and pillow, you see \n1.a piece of bread in a plastic bag \nbetween the headboard and the mattress.')
-                    i = input('type "back" to go back or type "1" to look more closely')
+                    i = await input('type "back" to go back or type "1" to look more closely')
                     if i == '1':
                         numcol += 1
                         print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -229,12 +250,12 @@ class Console(toga.App):
                     place = 4
             if place == 43:
                 print('\nAs you look at the bedside table you see \n1.a lamp and 2.a drawer.')
-                i = input('type "back" to go back or type "1" or "2" to look more closely')
+                i = await input('type "back" to go back or type "1" or "2" to look more closely')
                 if i == '1':
                     if ch7 == 0:
                         print(
                             '\nAs you move the lamp you see \n1.the piece of bread in a plastic bag that was hidden under it.')
-                        i = input('type "back" to go back or type "1" to look more closely')
+                        i = await input('type "back" to go back or type "1" to look more closely')
                         if i == '1':
                             numcol += 1
                             print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -252,7 +273,7 @@ class Console(toga.App):
                     if ch8 == 0:
                         print(
                             '\nAs you open the drawer you see \n1.the piece of bread in a plastic bag that was hidden inside it.')
-                        i = input('type "back" to go back or type "1" to look more closely')
+                        i = await input('type "back" to go back or type "1" to look more closely')
                         if i == '1':
                             numcol += 1
                             print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -265,7 +286,7 @@ class Console(toga.App):
                         place = 43
             if place == 5:
                 print('\nAs you look around the bedroom \nyou see 1.a pink bunkbed and 2.a blue bunkbed.')
-                i = input('type "back" to go back or type "1" or "2" to look more closely')
+                i = await input('type "back" to go back or type "1" or "2" to look more closely')
                 if i == 'back':
                     place = 2
                 if i == '1':
@@ -276,7 +297,7 @@ class Console(toga.App):
                 if ch9 == 0:
                     print(
                         '\nAs you look under the bed you see \n1.a piece of bread in a plastic bag that was hidden there.')
-                    i = input('type "back" to go back or type "1" to look more closely')
+                    i = await input('type "back" to go back or type "1" to look more closely')
                     if i == '1':
                         numcol += 1
                         print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -289,12 +310,12 @@ class Console(toga.App):
                     place = 5
             if place == 52:
                 print('\nAs you look under the bed you see \na black left shoe and 1.a shoebox.')
-                i = input('type "back" to go back or type "1" to look more closely')
+                i = await input('type "back" to go back or type "1" to look more closely')
                 if i == '1':
                     if ch10 == 0:
                         print(
                             '\nAs you look inside the shoebox you see a black right shoe and 1.a piece of bread in a plastic bag.')
-                        i = input('type "back" to go back or type "1" to look more closely')
+                        i = await input('type "back" to go back or type "1" to look more closely')
                         if i == '1':
                             numcol += 1
                             print('\nYou pick up the bread.\nYou have ', numcol, 'pieces of chametz.')
@@ -311,8 +332,9 @@ class Console(toga.App):
         #--------end code---------#
 
     def startch(self,button):
-        ch_thread = threading.Thread(target=self.ch, daemon=True)
-        ch_thread.start()
+        #ch_thread = threading.Thread(target=self.ch, daemon=True)
+        #ch_thread.start()
+        self.add_background_task(self.ch)
 
     def startup(self):
         """
@@ -325,18 +347,19 @@ class Console(toga.App):
         self.is_enter = False
         self.text = 'Mobile Console\n'#(('█'*80)+'\n')*25
         self.main_box = toga.Box()
-        self.main_box.style.update(direction=COLUMN, padding=0)
+        self.main_box.style.update(direction=COLUMN, padding=10)
         self.word = toga.Label(self.text)
-        self.word_box = toga.Box()
-        self.word_box.style.update(direction=ROW, padding=0)
+        #self.word_box = toga.Box()
+        #self.word_box.style.update(direction=ROW, padding=0)
         self.main_box.add(self.word)
-        self.main_box.add(self.word_box)
+        #self.main_box.add(self.word_box)
         self.text_input = toga.TextInput()
         self.ok_button = toga.Button('Ok',on_press=self.ok)
-        self.word_box.add(self.text_input)
-        self.word_box.add(self.ok_button)
+        self.main_box.add(self.text_input)
+        self.main_box.add(self.ok_button)
         self.ch_button = toga.Button('Chometz Hunt', on_press=self.startch)
-        self.main_box.add(self.ch_button)
+        self.startch(self.ch_button)
+        #self.main_box.add(self.ch_button)
 
 
         self.main_window = toga.MainWindow(title=self.formal_name)
@@ -346,3 +369,4 @@ class Console(toga.App):
 
 def main():
     return Console()
+
