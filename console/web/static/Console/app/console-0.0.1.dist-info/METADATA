@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: console
+Formal-Name: Console
+App-ID: com.example.console.console
+Version: 0.0.1
+Home-page: https://console.example.com/console
+Download-URL: https://console.example.com/console
+Author: coolcoder613
+Author-email: coolcoder613@outlook.com
+Summary: A console in beeware
