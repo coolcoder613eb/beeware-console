@@ -64,6 +64,8 @@ requires = [
 requires = [
     'toga-android>=0.3.0.dev38'
 ]
+icon.square = "src/console/resources/console-square"
+icon.round = "src/console/resources/console-round"
 
 [tool.briefcase.app.console.web]
 requires = [
