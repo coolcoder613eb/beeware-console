@@ -2,20 +2,14 @@
 A console in beeware
 """
 import toga
-#import threading
 import time
 import asyncio
 from toga.style import Pack
 from toga.style.pack import COLUMN, LEFT, RIGHT, CENTER, ROW, Pack, TOP, BOTTOM
 
-#ap = print
 class Console(toga.App):
     def upword(self):
         if len(self.word.text.splitlines()) > 20:
-            #print('a')
-            #print(len(self.word.text.splitlines()))
-            #print(list(self.word.text).count('\n'))
-            #print(self.word.text.splitlines()[-20:])
             self.word.text = '\n'.join(self.word.text.splitlines()[-20:]) + ('\n' if self.word.text.endswith('\n') else '')
             self.word.refresh()
     async def input(self,text=None):
@@ -24,8 +18,6 @@ class Console(toga.App):
             self.word.text += text
             self.upword()
         while not self.is_enter:
-            #self.main_window.update()
-            #self.main_window.show()
             self.word.refresh()
             await asyncio.sleep(0)
         self.is_enter = False
@@ -44,11 +36,8 @@ class Console(toga.App):
 
     async def ch(self, *args):
         self.word.text = 'Chometz Hunt' + '\n'
-        #ap("self.word.text = 'Chometz Hunt' + '\\n'")
         print = self.print
-        #ap('print = self.print')
         input = self.input
-        #ap('input = self.input')
         #----------code-----------#
         place = 2
         numcol = ch1 = ch2 = ch3 = ch4 = ch5 = ch6 = ch7 = ch8 = ch9 = ch10 = found = 0
@@ -332,8 +321,6 @@ class Console(toga.App):
         #--------end code---------#
 
     def startch(self,button):
-        #ch_thread = threading.Thread(target=self.ch, daemon=True)
-        #ch_thread.start()
         self.add_background_task(self.ch)
 
     def startup(self):
@@ -345,7 +332,7 @@ class Console(toga.App):
         show the main window.
         """
         self.is_enter = False
-        self.text = 'Mobile Console\n'#(('█'*80)+'\n')*25
+        self.text = 'Mobile Console\n'
         self.main_box = toga.Box()
         self.main_box.style.update(direction=COLUMN, padding=10)
         self.word = toga.Label(self.text)
@@ -358,8 +345,8 @@ class Console(toga.App):
         self.main_box.add(self.text_input)
         self.main_box.add(self.ok_button)
         self.ch_button = toga.Button('Chometz Hunt', on_press=self.startch)
-        self.startch(self.ch_button)
-        #self.main_box.add(self.ch_button)
+        #self.startch(self.ch_button)
+        self.main_box.add(self.ch_button)
 
 
         self.main_window = toga.MainWindow(title=self.formal_name)
