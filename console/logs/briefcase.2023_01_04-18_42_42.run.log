@@ -1,0 +1,421 @@
+Date/Time:       2023-01-04 18:42:42 
+Command line:    C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts\briefcase run web
+
+OS Release:      Windows 10
+OS Version:      10.0.19045
+Architecture:    AMD64
+Platform:        Windows-10-10.0.19045-SP0
+
+Python exe:      C:\Program Files\Python310\python.exe
+Python version:  3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)]
+Virtual env:     False
+Conda env:       False
+
+Briefcase:       0.3.11
+Target platform: web
+Target format:   static
+
+Environment Variables:
+    ALLUSERSPROFILE=C:\ProgramData
+    APPDATA=C:\Users\tzema\AppData\Roaming
+    CHOCOLATEYINSTALL=C:\ProgramData\chocolatey
+    CHOCOLATEYLASTPATHUPDATE=133022356521885653
+    COMMANDPROMPTTYPE=Native
+    COMMONPROGRAMFILES=C:\Program Files\Common Files
+    COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+    COMMONPROGRAMW6432=C:\Program Files\Common Files
+    COMPUTERNAME=LAPTOP-T-D-613
+    COMSPEC=C:\WINDOWS\system32\cmd.exe
+    DEVENVDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+    DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+    EXTENSIONSDKDIR=C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs
+    EXTERNAL_INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+    FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+    FPS_BROWSER_USER_PROFILE_STRING=Default
+    FRAMEWORK40VERSION=v4.0
+    FRAMEWORKDIR=C:\Windows\Microsoft.NET\Framework\
+    FRAMEWORKDIR32=C:\Windows\Microsoft.NET\Framework\
+    FRAMEWORKVERSION=v4.0.30319
+    FRAMEWORKVERSION32=v4.0.30319
+    FSHARPINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools
+    HOMEDRIVE=C:
+    HOMEPATH=\Users\tzema
+    INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+    JAVA_HOME=C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08
+    LIB=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\\lib\10.0.22000.0\\um\x86
+    LIBPATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22000.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+    LOCALAPPDATA=C:\Users\tzema\AppData\Local
+    LOGONSERVER=\\LAPTOP-T-D-613
+    NETFXSDKDIR=C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\
+    NUMBER_OF_PROCESSORS=8
+    ONEDRIVE=C:\Users\tzema\OneDrive - Yesodei HaTorah College
+    ONEDRIVECOMMERCIAL=C:\Users\tzema\OneDrive - Yesodei HaTorah College
+    ONEDRIVECONSUMER=C:\Users\tzema\OneDrive
+    OS=Windows_NT
+    PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\VCPackages;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\bin\Roslyn;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\\x86;C:\Program Files (x86)\Windows Kits\10\bin\\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-18.0.1.1\bin\javac;C:\Program Files\Java\jdk-18.0.1.1\bin\jar;C:\Users\tzema\Downloads\itch-plan-install\itch-plan-install\vendor\;C:\ProgramData\chocolatey\bin;C:\Users\tzema\AppData\Local\Vbsedit\x64;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\tzema\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\;C:\Users\tzema\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4\bin\;C:\gradle\gradle-7.5.1\bin\;C:\ProgramData\chocolatey\lib\make\tools\install\bin\;C:\Users\tzema\Downloads\nasm-2.15.05-win64\nasm-2.15.05\;C:\Users\tzema\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\;C:\masm32\bin;C:\Users\tzema\Documents\GitHub\easm\;C:\Program Files\Git\;C:\Program Files\Git\bin\;C:\Users\tzema\Documents\GitHub\ebOS\ebOS\bin\Debug\net6.0\;C:\Program Files\IronPython 3.4\;C:\Users\tzema\Downloads\pypy3.9-v7.3.10-win64\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\;C:\Users\tzema\AppData\Local\Microsoft\WindowsApps;C:\Users\tzema\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;C:\Users\tzema\AppData\Local\GitHubDesktop\bin;C:\ProgramData\tzema\GitHubDesktop\bin;C:\Users\tzema\AppData\Roaming\npm;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.EASM
+    PROCESSOR_ARCHITECTURE=AMD64
+    PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=8e0c
+    PROGRAMDATA=C:\ProgramData
+    PROGRAMFILES=C:\Program Files
+    PROGRAMFILES(X86)=C:\Program Files (x86)
+    PROGRAMW6432=C:\Program Files
+    PROMPT=$P$G
+    PSMODULEPATH=%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+    PUBLIC=C:\Users\Public
+    PYCHARM COMMUNITY EDITION=C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;
+    SYSTEMDRIVE=C:
+    SYSTEMROOT=C:\WINDOWS
+    TEMP=C:\Users\tzema\AppData\Local\Temp
+    TMP=C:\Users\tzema\AppData\Local\Temp
+    UCRTVERSION=10.0.22000.0
+    UNIVERSALCRTSDKDIR=C:\Program Files (x86)\Windows Kits\10\
+    USERDOMAIN=LAPTOP-T-D-613
+    USERDOMAIN_ROAMINGPROFILE=LAPTOP-T-D-613
+    USERNAME=tzema
+    USERPROFILE=C:\Users\tzema
+    VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+    VCIDEINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\
+    VCINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\
+    VCTOOLSINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\
+    VCTOOLSREDISTDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.34.31931\
+    VCTOOLSVERSION=14.34.31933
+    VISUALSTUDIOVERSION=17.0
+    VS170COMNTOOLS=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\
+    VSCMD_ARG_APP_PLAT=Desktop
+    VSCMD_ARG_HOST_ARCH=x86
+    VSCMD_ARG_TGT_ARCH=x86
+    VSCMD_VER=17.4.1
+    VSINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\
+    VSSDK150INSTALL=C:\Program Files\Microsoft Visual Studio\2022\Community\VSSDK
+    VSSDKINSTALL=C:\Program Files\Microsoft Visual Studio\2022\Community\VSSDK
+    WINDIR=C:\WINDOWS
+    WINDOWSLIBPATH=C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22000.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0
+    WINDOWSSDKBINPATH=C:\Program Files (x86)\Windows Kits\10\bin\
+    WINDOWSSDKDIR=C:\Program Files (x86)\Windows Kits\10\
+    WINDOWSSDKLIBVERSION=10.0.22000.0\
+    WINDOWSSDKVERBINPATH=C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\
+    WINDOWSSDKVERSION=10.0.22000.0\
+    WINDOWSSDK_EXECUTABLEPATH_X64=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\
+    WINDOWSSDK_EXECUTABLEPATH_X86=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\
+    WSLENV=WT_SESSION::WT_PROFILE_ID
+    WT_PROFILE_ID={0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+    WT_SESSION=fa8025a4-ca73-4ce2-bf9a-fa13e77339ce
+    ZES_ENABLE_SYSMAN=1
+    __DOTNET_ADD_32BIT=1
+    __DOTNET_PREFERRED_BITNESS=32
+    __VSCMD_PREINIT_PATH=C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-18.0.1.1\bin\javac;C:\Program Files\Java\jdk-18.0.1.1\bin\jar;C:\Users\tzema\Downloads\itch-plan-install\itch-plan-install\vendor\;C:\ProgramData\chocolatey\bin;C:\Users\tzema\AppData\Local\Vbsedit\x64;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\tzema\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\;C:\Users\tzema\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4\bin\;C:\gradle\gradle-7.5.1\bin\;C:\ProgramData\chocolatey\lib\make\tools\install\bin\;C:\Users\tzema\Downloads\nasm-2.15.05-win64\nasm-2.15.05\;C:\Users\tzema\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\;C:\masm32\bin;C:\Users\tzema\Documents\GitHub\easm\;C:\Program Files\Git\;C:\Program Files\Git\bin\;C:\Users\tzema\Documents\GitHub\ebOS\ebOS\bin\Debug\net6.0\;C:\Program Files\IronPython 3.4\;C:\Users\tzema\Downloads\pypy3.9-v7.3.10-win64\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\;C:\Users\tzema\AppData\Local\Microsoft\WindowsApps;C:\Users\tzema\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;C:\Users\tzema\AppData\Local\GitHubDesktop\bin;C:\ProgramData\tzema\GitHubDesktop\bin;C:\Users\tzema\AppData\Roaming\npm
+
+Briefcase Log:
+[18:42:40]                                                                                                                                                             create.py:746
+           [console] Generating application template...                                                                                                                create.py:746
+           Using app template: https://github.com/beeware/briefcase-web-static-template.git, branch v0.3.11                                                            create.py:283
+[18:42:42]                                                                                                                                                            __main__.py:27
+           Unable to clone template repository; is your computer offline?                                                                                             __main__.py:28
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\base.py:717 in generate_template                                                                │
+│                                                                                                                                                                                  │
+│   714 │   │                                                                                                                                                                      │
+│   715 │   │   try:                                                                                                                                                               │
+│   716 │   │   │   # Unroll the template                                                                                                                                          │
+│ ❱ 717 │   │   │   self.tools.cookiecutter(                                                                                                                                       │
+│   718 │   │   │   │   str(cached_template),                                                                                                                                      │
+│   719 │   │   │   │   no_input=True,                                                                                                                                             │
+│   720 │   │   │   │   output_dir=str(output_path),                                                                                                                               │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                       │
+│ │          branch = 'v0.3.11'                                                                            │                                                                       │
+│ │ cached_template = 'https://github.com/beeware/briefcase-web-static-template.git'                       │                                                                       │
+│ │   extra_context = {                                                                                    │                                                                       │
+│ │                   │   'project_name': 'Console',                                                       │                                                                       │
+│ │                   │   'license': 'MIT license',                                                        │                                                                       │
+│ │                   │   'style_framework': 'Bootstrap v4.6',                                             │                                                                       │
+│ │                   │   'app_name': 'console',                                                           │                                                                       │
+│ │                   │   'version': '0.0.1',                                                              │                                                                       │
+│ │                   │   'bundle': 'com.example.console',                                                 │                                                                       │
+│ │                   │   'description': 'A console in beeware',                                           │                                                                       │
+│ │                   │   'sources': ['src/console'],                                                      │                                                                       │
+│ │                   │   'formal_name': 'Console',                                                        │                                                                       │
+│ │                   │   'url': 'https://console.example.com/console',                                    │                                                                       │
+│ │                   │   ... +12                                                                          │                                                                       │
+│ │                   }                                                                                    │                                                                       │
+│ │     output_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/web/static')    │                                                                       │
+│ │            self = <briefcase.platforms.web.static.StaticWebCreateCommand object at 0x000001734F507D90> │                                                                       │
+│ │        template = 'https://github.com/beeware/briefcase-web-static-template.git'                       │                                                                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                       │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cookiecutter\main.py:69 in cookiecutter                                                                            │
+│                                                                                                                                                                                  │
+│    66 │   │   default_config=default_config,                                                                                                                                     │
+│    67 │   )                                                                                                                                                                      │
+│    68 │                                                                                                                                                                          │
+│ ❱  69 │   repo_dir, cleanup = determine_repo_dir(                                                                                                                                │
+│    70 │   │   template=template,                                                                                                                                                 │
+│    71 │   │   abbreviations=config_dict['abbreviations'],                                                                                                                        │
+│    72 │   │   clone_to_dir=config_dict['cookiecutters_dir'],                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────────────────────╮                       │
+│ │        accept_hooks = True                                                                                                                             │                       │
+│ │            checkout = 'v0.3.11'                                                                                                                        │                       │
+│ │         config_dict = {                                                                                                                                │                       │
+│ │                       │   'cookiecutters_dir': 'C:\\Users\\tzema/.cookiecutters/',                                                                     │                       │
+│ │                       │   'replay_dir': 'C:\\Users\\tzema/.cookiecutter_replay/',                                                                      │                       │
+│ │                       │   'default_context': OrderedDict(),                                                                                            │                       │
+│ │                       │   'abbreviations': {                                                                                                           │                       │
+│ │                       │   │   'gh': 'https://github.com/{0}.git',                                                                                      │                       │
+│ │                       │   │   'gl': 'https://gitlab.com/{0}.git',                                                                                      │                       │
+│ │                       │   │   'bb': 'https://bitbucket.org/{0}'                                                                                        │                       │
+│ │                       │   }                                                                                                                            │                       │
+│ │                       }                                                                                                                                │                       │
+│ │         config_file = None                                                                                                                             │                       │
+│ │      default_config = False                                                                                                                            │                       │
+│ │           directory = None                                                                                                                             │                       │
+│ │       extra_context = {                                                                                                                                │                       │
+│ │                       │   'project_name': 'Console',                                                                                                   │                       │
+│ │                       │   'license': 'MIT license',                                                                                                    │                       │
+│ │                       │   'style_framework': 'Bootstrap v4.6',                                                                                         │                       │
+│ │                       │   'app_name': 'console',                                                                                                       │                       │
+│ │                       │   'version': '0.0.1',                                                                                                          │                       │
+│ │                       │   'bundle': 'com.example.console',                                                                                             │                       │
+│ │                       │   'description': 'A console in beeware',                                                                                       │                       │
+│ │                       │   'sources': ['src/console'],                                                                                                  │                       │
+│ │                       │   'formal_name': 'Console',                                                                                                    │                       │
+│ │                       │   'url': 'https://console.example.com/console',                                                                                │                       │
+│ │                       │   ... +12                                                                                                                      │                       │
+│ │                       }                                                                                                                                │                       │
+│ │            no_input = True                                                                                                                             │                       │
+│ │          output_dir = 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\web\\static'                                                     │                       │
+│ │ overwrite_if_exists = False                                                                                                                            │                       │
+│ │            password = None                                                                                                                             │                       │
+│ │              replay = None                                                                                                                             │                       │
+│ │ skip_if_file_exists = False                                                                                                                            │                       │
+│ │            template = 'https://github.com/beeware/briefcase-web-static-template.git'                                                                   │                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                       │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cookiecutter\repository.py:106 in determine_repo_dir                                                               │
+│                                                                                                                                                                                  │
+│   103 │   │   repository_candidates = [unzipped_dir]                                                                                                                             │
+│   104 │   │   cleanup = True                                                                                                                                                     │
+│   105 │   elif is_repo_url(template):                                                                                                                                            │
+│ ❱ 106 │   │   cloned_repo = clone(                                                                                                                                               │
+│   107 │   │   │   repo_url=template,                                                                                                                                             │
+│   108 │   │   │   checkout=checkout,                                                                                                                                             │
+│   109 │   │   │   clone_to_dir=clone_to_dir,                                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────╮                                                  │
+│ │ abbreviations = {'gh': 'https://github.com/{0}.git', 'gl': 'https://gitlab.com/{0}.git', 'bb': 'https://bitbucket.org/{0}'} │                                                  │
+│ │      checkout = 'v0.3.11'                                                                                                   │                                                  │
+│ │  clone_to_dir = 'C:\\Users\\tzema/.cookiecutters/'                                                                          │                                                  │
+│ │     directory = None                                                                                                        │                                                  │
+│ │      no_input = True                                                                                                        │                                                  │
+│ │      password = None                                                                                                        │                                                  │
+│ │      template = 'https://github.com/beeware/briefcase-web-static-template.git'                                              │                                                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                  │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cookiecutter\vcs.py:95 in clone                                                                                    │
+│                                                                                                                                                                                  │
+│    92 │                                                                                                                                                                          │
+│    93 │   if clone:                                                                                                                                                              │
+│    94 │   │   try:                                                                                                                                                               │
+│ ❱  95 │   │   │   subprocess.check_output(  # nosec                                                                                                                              │
+│    96 │   │   │   │   [repo_type, 'clone', repo_url],                                                                                                                            │
+│    97 │   │   │   │   cwd=clone_to_dir,                                                                                                                                          │
+│    98 │   │   │   │   stderr=subprocess.STDOUT,                                                                                                                                  │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                       │
+│ │     checkout = 'v0.3.11'                                                                               │                                                                       │
+│ │        clone = True                                                                                    │                                                                       │
+│ │ clone_to_dir = 'C:\\Users\\tzema/.cookiecutters/'                                                      │                                                                       │
+│ │     no_input = True                                                                                    │                                                                       │
+│ │       output = "Cloning into 'briefcase-web-static-template'...\nfatal: unable to access 'https:/"+121 │                                                                       │
+│ │     repo_dir = 'C:\\Users\\tzema\\.cookiecutters\\briefcase-web-static-template'                       │                                                                       │
+│ │    repo_name = 'briefcase-web-static-template'                                                         │                                                                       │
+│ │    repo_type = 'git'                                                                                   │                                                                       │
+│ │     repo_url = 'https://github.com/beeware/briefcase-web-static-template.git'                          │                                                                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                       │
+│                                                                                                                                                                                  │
+│ C:\Program Files\Python310\lib\subprocess.py:420 in check_output                                                                                                                 │
+│                                                                                                                                                                                  │
+│    417 │   │   │   empty = b''                                                                                                                                                   │
+│    418 │   │   kwargs['input'] = empty                                                                                                                                           │
+│    419 │                                                                                                                                                                         │
+│ ❱  420 │   return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,                                                                                                      │
+│    421 │   │   │      **kwargs).stdout                                                                                                                                           │
+│    422                                                                                                                                                                           │
+│    423                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                              │
+│ │    kwargs = {'cwd': 'C:\\Users\\tzema/.cookiecutters/', 'stderr': -2}                           │                                                                              │
+│ │ popenargs = (['git', 'clone', 'https://github.com/beeware/briefcase-web-static-template.git'],) │                                                                              │
+│ │   timeout = None                                                                                │                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                              │
+│                                                                                                                                                                                  │
+│ C:\Program Files\Python310\lib\subprocess.py:524 in run                                                                                                                          │
+│                                                                                                                                                                                  │
+│    521 │   │   │   raise                                                                                                                                                         │
+│    522 │   │   retcode = process.poll()                                                                                                                                          │
+│    523 │   │   if check and retcode:                                                                                                                                             │
+│ ❱  524 │   │   │   raise CalledProcessError(retcode, process.args,                                                                                                               │
+│    525 │   │   │   │   │   │   │   │   │    output=stdout, stderr=stderr)                                                                                                        │
+│    526 │   return CompletedProcess(process.args, retcode, stdout, stderr)                                                                                                        │
+│    527                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────── locals ──────────────────────────────────────────────────╮                                                                    │
+│ │ capture_output = False                                                                                    │                                                                    │
+│ │          check = True                                                                                     │                                                                    │
+│ │          input = None                                                                                     │                                                                    │
+│ │         kwargs = {'stdout': -1, 'cwd': 'C:\\Users\\tzema/.cookiecutters/', 'stderr': -2}                  │                                                                    │
+│ │      popenargs = (['git', 'clone', 'https://github.com/beeware/briefcase-web-static-template.git'],)      │                                                                    │
+│ │        process = <Popen: returncode: 128 args: ['git', 'clone', 'https://github.com/beeware/b...>         │                                                                    │
+│ │        retcode = 128                                                                                      │                                                                    │
+│ │         stderr = None                                                                                     │                                                                    │
+│ │         stdout = b"Cloning into 'briefcase-web-static-template'...\nfatal: unable to access 'https:/"+121 │                                                                    │
+│ │        timeout = None                                                                                     │                                                                    │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                    │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+CalledProcessError: Command '['git', 'clone', 'https://github.com/beeware/briefcase-web-static-template.git']' returned non-zero exit status 128.
+
+The above exception was the direct cause of the following exception:
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\__main__.py:21 in main                                                                                   │
+│                                                                                                                                                                                  │
+│   18 │   │   options = command.parse_options(extra=extra_cmdline)                                                                                                                │
+│   19 │   │   command.check_obsolete_data_dir()                                                                                                                                   │
+│   20 │   │   command.parse_config(Path.cwd() / "pyproject.toml")                                                                                                                 │
+│ ❱ 21 │   │   command(**options)                                                                                                                                                  │
+│   22 │   except HelpText as e:                                                                                                                                                   │
+│   23 │   │   logger.info()                                                                                                                                                       │
+│   24 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────── locals ───────────────────────────────────────────────────╮                                                                  │
+│ │       command = <briefcase.platforms.web.static.StaticWebRunCommand object at 0x000001734C317790>           │                                                                  │
+│ │       Command = <class 'briefcase.platforms.web.static.StaticWebRunCommand'>                                │                                                                  │
+│ │       console = <briefcase.console.Console object at 0x000001734C314B50>                                    │                                                                  │
+│ │             e = NetworkFailure('clone template repository')                                                 │                                                                  │
+│ │ extra_cmdline = []                                                                                          │                                                                  │
+│ │        logger = <briefcase.console.Log object at 0x000001734C315B70>                                        │                                                                  │
+│ │       options = {'appname': None, 'update': False, 'host': 'localhost', 'port': 8080, 'open_browser': True} │                                                                  │
+│ │        result = 200                                                                                         │                                                                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                  │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\run.py:56 in __call__                                                                           │
+│                                                                                                                                                                                  │
+│   53 │   │   template_file = self.bundle_path(app)                                                                                                                               │
+│   54 │   │   binary_file = self.binary_path(app)                                                                                                                                 │
+│   55 │   │   if not template_file.exists():                                                                                                                                      │
+│ ❱ 56 │   │   │   state = self.create_command(app, **options)                                                                                                                     │
+│   57 │   │   │   state = self.build_command(app, **full_options(state, options))                                                                                                 │
+│   58 │   │   elif update:                                                                                                                                                        │
+│   59 │   │   │   state = self.update_command(app, **options)                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                     │
+│ │           app = <com.example.console.console v0.0.1 AppConfig>                                                           │                                                     │
+│ │       appname = None                                                                                                     │                                                     │
+│ │   binary_file = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/web/static/Console/www/index.html') │                                                     │
+│ │       options = {'host': 'localhost', 'port': 8080, 'open_browser': True}                                                │                                                     │
+│ │          self = <briefcase.platforms.web.static.StaticWebRunCommand object at 0x000001734C317790>                        │                                                     │
+│ │ template_file = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/web/static/Console')                │                                                     │
+│ │        update = False                                                                                                    │                                                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                     │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\create.py:792 in __call__                                                                       │
+│                                                                                                                                                                                  │
+│   789 │   │   self.verify_tools()                                                                                                                                                │
+│   790 │   │                                                                                                                                                                      │
+│   791 │   │   if app:                                                                                                                                                            │
+│ ❱ 792 │   │   │   state = self.create_app(app, **options)                                                                                                                        │
+│   793 │   │   else:                                                                                                                                                              │
+│   794 │   │   │   state = None                                                                                                                                                   │
+│   795 │   │   │   for app_name, app in sorted(self.apps.items()):                                                                                                                │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │     app = <com.example.console.console v0.0.1 AppConfig>                                       │                                                                               │
+│ │ options = {'host': 'localhost', 'port': 8080, 'open_browser': True}                            │                                                                               │
+│ │    self = <briefcase.platforms.web.static.StaticWebCreateCommand object at 0x000001734F507D90> │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\create.py:747 in create_app                                                                     │
+│                                                                                                                                                                                  │
+│   744 │   │   │   self.tools.shutil.rmtree(bundle_path)                                                                                                                          │
+│   745 │   │                                                                                                                                                                      │
+│   746 │   │   self.logger.info("Generating application template...", prefix=app.app_name)                                                                                        │
+│ ❱ 747 │   │   self.generate_app_template(app=app)                                                                                                                                │
+│   748 │   │                                                                                                                                                                      │
+│   749 │   │   self.logger.info("Installing support package...", prefix=app.app_name)                                                                                             │
+│   750 │   │   self.install_app_support_package(app=app)                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ─────────────────────────────────────────────────╮                                                                      │
+│ │         app = <com.example.console.console v0.0.1 AppConfig>                                            │                                                                      │
+│ │ bundle_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/web/static/Console') │                                                                      │
+│ │     options = {'host': 'localhost', 'port': 8080, 'open_browser': True}                                 │                                                                      │
+│ │        self = <briefcase.platforms.web.static.StaticWebCreateCommand object at 0x000001734F507D90>      │                                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                      │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\create.py:286 in generate_app_template                                                          │
+│                                                                                                                                                                                  │
+│   283 │   │   │   self.logger.info(                                                                                                                                              │
+│   284 │   │   │   │   f"Using app template: {template}, branch {template_branch}"                                                                                                │
+│   285 │   │   │   )                                                                                                                                                              │
+│ ❱ 286 │   │   │   self.generate_template(                                                                                                                                        │
+│   287 │   │   │   │   template=template,                                                                                                                                         │
+│   288 │   │   │   │   branch=template_branch,                                                                                                                                    │
+│   289 │   │   │   │   output_path=output_path,                                                                                                                                   │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                       │
+│ │             app = <com.example.console.console v0.0.1 AppConfig>                                       │                                                                       │
+│ │   extra_context = {                                                                                    │                                                                       │
+│ │                   │   'project_name': 'Console',                                                       │                                                                       │
+│ │                   │   'license': 'MIT license',                                                        │                                                                       │
+│ │                   │   'style_framework': 'Bootstrap v4.6',                                             │                                                                       │
+│ │                   │   'app_name': 'console',                                                           │                                                                       │
+│ │                   │   'version': '0.0.1',                                                              │                                                                       │
+│ │                   │   'bundle': 'com.example.console',                                                 │                                                                       │
+│ │                   │   'description': 'A console in beeware',                                           │                                                                       │
+│ │                   │   'sources': ['src/console'],                                                      │                                                                       │
+│ │                   │   'formal_name': 'Console',                                                        │                                                                       │
+│ │                   │   'url': 'https://console.example.com/console',                                    │                                                                       │
+│ │                   │   ... +12                                                                          │                                                                       │
+│ │                   }                                                                                    │                                                                       │
+│ │     output_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/web/static')    │                                                                       │
+│ │            self = <briefcase.platforms.web.static.StaticWebCreateCommand object at 0x000001734F507D90> │                                                                       │
+│ │        template = 'https://github.com/beeware/briefcase-web-static-template.git'                       │                                                                       │
+│ │ template_branch = 'v0.3.11'                                                                            │                                                                       │
+│ │         version = <Version('0.3.11')>                                                                  │                                                                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                       │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\base.py:727 in generate_template                                                                │
+│                                                                                                                                                                                  │
+│   724 │   │   except subprocess.CalledProcessError as e:                                                                                                                         │
+│   725 │   │   │   # Computer is offline                                                                                                                                          │
+│   726 │   │   │   # status code == 128 - certificate validation error.                                                                                                           │
+│ ❱ 727 │   │   │   raise NetworkFailure("clone template repository") from e                                                                                                       │
+│   728 │   │   except cookiecutter_exceptions.RepositoryNotFound as e:                                                                                                            │
+│   729 │   │   │   # Either the template path is invalid,                                                                                                                         │
+│   730 │   │   │   # or it isn't a cookiecutter template (i.e., no cookiecutter.json)                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                       │
+│ │          branch = 'v0.3.11'                                                                            │                                                                       │
+│ │ cached_template = 'https://github.com/beeware/briefcase-web-static-template.git'                       │                                                                       │
+│ │   extra_context = {                                                                                    │                                                                       │
+│ │                   │   'project_name': 'Console',                                                       │                                                                       │
+│ │                   │   'license': 'MIT license',                                                        │                                                                       │
+│ │                   │   'style_framework': 'Bootstrap v4.6',                                             │                                                                       │
+│ │                   │   'app_name': 'console',                                                           │                                                                       │
+│ │                   │   'version': '0.0.1',                                                              │                                                                       │
+│ │                   │   'bundle': 'com.example.console',                                                 │                                                                       │
+│ │                   │   'description': 'A console in beeware',                                           │                                                                       │
+│ │                   │   'sources': ['src/console'],                                                      │                                                                       │
+│ │                   │   'formal_name': 'Console',                                                        │                                                                       │
+│ │                   │   'url': 'https://console.example.com/console',                                    │                                                                       │
+│ │                   │   ... +12                                                                          │                                                                       │
+│ │                   }                                                                                    │                                                                       │
+│ │     output_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/web/static')    │                                                                       │
+│ │            self = <briefcase.platforms.web.static.StaticWebCreateCommand object at 0x000001734F507D90> │                                                                       │
+│ │        template = 'https://github.com/beeware/briefcase-web-static-template.git'                       │                                                                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                       │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+NetworkFailure: Unable to clone template repository; is your computer offline?

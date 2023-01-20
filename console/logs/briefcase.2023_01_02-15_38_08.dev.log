@@ -1,0 +1,364 @@
+Date/Time:       2023-01-02 15:38:08 
+Command line:    C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts\briefcase dev
+
+OS Release:      Windows 10
+OS Version:      10.0.19045
+Architecture:    AMD64
+Platform:        Windows-10-10.0.19045-SP0
+
+Python exe:      C:\Program Files\Python310\python.exe
+Python version:  3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)]
+Virtual env:     False
+Conda env:       False
+
+Briefcase:       0.3.11
+Target platform: windows
+Target format:   None
+
+Environment Variables:
+    ALLUSERSPROFILE=C:\ProgramData
+    APPDATA=C:\Users\tzema\AppData\Roaming
+    CHOCOLATEYINSTALL=C:\ProgramData\chocolatey
+    CHOCOLATEYLASTPATHUPDATE=133022356521885653
+    COMMANDPROMPTTYPE=Native
+    COMMONPROGRAMFILES=C:\Program Files\Common Files
+    COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+    COMMONPROGRAMW6432=C:\Program Files\Common Files
+    COMPUTERNAME=LAPTOP-T-D-613
+    COMSPEC=C:\WINDOWS\system32\cmd.exe
+    DEVENVDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+    DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+    EXTENSIONSDKDIR=C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs
+    EXTERNAL_INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+    FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+    FPS_BROWSER_USER_PROFILE_STRING=Default
+    FRAMEWORK40VERSION=v4.0
+    FRAMEWORKDIR=C:\Windows\Microsoft.NET\Framework\
+    FRAMEWORKDIR32=C:\Windows\Microsoft.NET\Framework\
+    FRAMEWORKVERSION=v4.0.30319
+    FRAMEWORKVERSION32=v4.0.30319
+    FSHARPINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools
+    HOMEDRIVE=C:
+    HOMEPATH=\Users\tzema
+    INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+    JAVA_HOME=C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08
+    LIB=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\\lib\10.0.22000.0\\um\x86
+    LIBPATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22000.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+    LOCALAPPDATA=C:\Users\tzema\AppData\Local
+    LOGONSERVER=\\LAPTOP-T-D-613
+    NETFXSDKDIR=C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\
+    NUMBER_OF_PROCESSORS=8
+    ONEDRIVE=C:\Users\tzema\OneDrive - Yesodei HaTorah College
+    ONEDRIVECOMMERCIAL=C:\Users\tzema\OneDrive - Yesodei HaTorah College
+    ONEDRIVECONSUMER=C:\Users\tzema\OneDrive
+    OS=Windows_NT
+    PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX86\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\VCPackages;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\bin\Roslyn;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\\x86;C:\Program Files (x86)\Windows Kits\10\bin\\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-18.0.1.1\bin\javac;C:\Program Files\Java\jdk-18.0.1.1\bin\jar;C:\Users\tzema\Downloads\itch-plan-install\itch-plan-install\vendor\;C:\ProgramData\chocolatey\bin;C:\Users\tzema\AppData\Local\Vbsedit\x64;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\tzema\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\;C:\Users\tzema\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4\bin\;C:\gradle\gradle-7.5.1\bin\;C:\ProgramData\chocolatey\lib\make\tools\install\bin\;C:\Users\tzema\Downloads\nasm-2.15.05-win64\nasm-2.15.05\;C:\Users\tzema\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\;C:\masm32\bin;C:\Users\tzema\Documents\GitHub\easm\;C:\Program Files\Git\;C:\Program Files\Git\bin\;C:\Users\tzema\Documents\GitHub\ebOS\ebOS\bin\Debug\net6.0\;C:\Program Files\IronPython 3.4\;C:\Users\tzema\Downloads\pypy3.9-v7.3.10-win64\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\;C:\Users\tzema\AppData\Local\Microsoft\WindowsApps;C:\Users\tzema\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;C:\Users\tzema\AppData\Local\GitHubDesktop\bin;C:\ProgramData\tzema\GitHubDesktop\bin;C:\Users\tzema\AppData\Roaming\npm;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.EASM
+    PROCESSOR_ARCHITECTURE=AMD64
+    PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=8e0c
+    PROGRAMDATA=C:\ProgramData
+    PROGRAMFILES=C:\Program Files
+    PROGRAMFILES(X86)=C:\Program Files (x86)
+    PROGRAMW6432=C:\Program Files
+    PROMPT=$P$G
+    PSMODULEPATH=%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+    PUBLIC=C:\Users\Public
+    PYCHARM COMMUNITY EDITION=C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;
+    SYSTEMDRIVE=C:
+    SYSTEMROOT=C:\WINDOWS
+    TEMP=C:\Users\tzema\AppData\Local\Temp
+    TMP=C:\Users\tzema\AppData\Local\Temp
+    UCRTVERSION=10.0.22000.0
+    UNIVERSALCRTSDKDIR=C:\Program Files (x86)\Windows Kits\10\
+    USERDOMAIN=LAPTOP-T-D-613
+    USERDOMAIN_ROAMINGPROFILE=LAPTOP-T-D-613
+    USERNAME=tzema
+    USERPROFILE=C:\Users\tzema
+    VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+    VCIDEINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\
+    VCINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\
+    VCTOOLSINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\
+    VCTOOLSREDISTDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.34.31931\
+    VCTOOLSVERSION=14.34.31933
+    VISUALSTUDIOVERSION=17.0
+    VS170COMNTOOLS=C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\
+    VSCMD_ARG_APP_PLAT=Desktop
+    VSCMD_ARG_HOST_ARCH=x86
+    VSCMD_ARG_TGT_ARCH=x86
+    VSCMD_VER=17.4.1
+    VSINSTALLDIR=C:\Program Files\Microsoft Visual Studio\2022\Community\
+    VSSDK150INSTALL=C:\Program Files\Microsoft Visual Studio\2022\Community\VSSDK
+    VSSDKINSTALL=C:\Program Files\Microsoft Visual Studio\2022\Community\VSSDK
+    WINDIR=C:\WINDOWS
+    WINDOWSLIBPATH=C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22000.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0
+    WINDOWSSDKBINPATH=C:\Program Files (x86)\Windows Kits\10\bin\
+    WINDOWSSDKDIR=C:\Program Files (x86)\Windows Kits\10\
+    WINDOWSSDKLIBVERSION=10.0.22000.0\
+    WINDOWSSDKVERBINPATH=C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\
+    WINDOWSSDKVERSION=10.0.22000.0\
+    WINDOWSSDK_EXECUTABLEPATH_X64=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\
+    WINDOWSSDK_EXECUTABLEPATH_X86=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\
+    WSLENV=WT_SESSION::WT_PROFILE_ID
+    WT_PROFILE_ID={0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+    WT_SESSION=fa8025a4-ca73-4ce2-bf9a-fa13e77339ce
+    ZES_ENABLE_SYSMAN=1
+    __DOTNET_ADD_32BIT=1
+    __DOTNET_PREFERRED_BITNESS=32
+    __VSCMD_PREINIT_PATH=C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-18.0.1.1\bin\javac;C:\Program Files\Java\jdk-18.0.1.1\bin\jar;C:\Users\tzema\Downloads\itch-plan-install\itch-plan-install\vendor\;C:\ProgramData\chocolatey\bin;C:\Users\tzema\AppData\Local\Vbsedit\x64;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\tzema\AppData\Roaming\Python\Python310\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\tzema\AppData\Local\Android\Sdk\cmdline-tools\latest\bin\;C:\Users\tzema\.gradle\wrapper\dists\gradle-7.4-bin\c0gwcg53nkjbqw7r0h0umtfvt\gradle-7.4\bin\;C:\gradle\gradle-7.5.1\bin\;C:\ProgramData\chocolatey\lib\make\tools\install\bin\;C:\Users\tzema\Downloads\nasm-2.15.05-win64\nasm-2.15.05\;C:\Users\tzema\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\;C:\masm32\bin;C:\Users\tzema\Documents\GitHub\easm\;C:\Program Files\Git\;C:\Program Files\Git\bin\;C:\Users\tzema\Documents\GitHub\ebOS\ebOS\bin\Debug\net6.0\;C:\Program Files\IronPython 3.4\;C:\Users\tzema\Downloads\pypy3.9-v7.3.10-win64\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\tzema\AppData\Local\Programs\Python\Python310\;C:\Users\tzema\AppData\Local\Microsoft\WindowsApps;C:\Users\tzema\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;C:\Users\tzema\AppData\Local\GitHubDesktop\bin;C:\ProgramData\tzema\GitHubDesktop\bin;C:\Users\tzema\AppData\Roaming\npm
+
+Briefcase Log:
+[15:37:51]                                                                                                                                                                dev.py:161
+           [console] Installing dependencies...                                                                                                                           dev.py:161
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Program Files\Python310\python.exe' -u -m pip install --upgrade 'toga-winforms>=0.3.0.dev38'                                                subprocess.py:518
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\tzema\Documents\GitHub\beeware-console\console                                                                                         subprocess.py:526
+[15:37:53] Defaulting to user installation because normal site-packages is not writeable                                                                           subprocess.py:495
+[15:37:55] Collecting toga-winforms>=0.3.0.dev38                                                                                                                   subprocess.py:495
+[15:37:56]   Downloading toga_winforms-0.3.0.dev39-py3-none-any.whl (329 kB)                                                                                       subprocess.py:495
+[15:37:57]      ------------------------------------ 329.2/329.2 kB 279.6 kB/s eta 0:00:00                                                                         subprocess.py:495
+           Requirement already satisfied: pythonnet>=3.0.0a1 in c:\users\tzema\appdata\roaming\python\python310\site-packages (from toga-winforms>=0.3.0.dev38)    subprocess.py:495
+           (3.0.0rc6)                                                                                                                                                               
+[15:37:58] Collecting toga-core==0.3.0.dev39                                                                                                                       subprocess.py:495
+             Downloading toga_core-0.3.0.dev39-py3-none-any.whl (496 kB)                                                                                           subprocess.py:495
+[15:37:59]      -------------------------------------- 496.5/496.5 kB 1.0 MB/s eta 0:00:00                                                                         subprocess.py:495
+           Requirement already satisfied: travertino>=0.1.3 in c:\users\tzema\appdata\roaming\python\python310\site-packages (from                                 subprocess.py:495
+           toga-core==0.3.0.dev39->toga-winforms>=0.3.0.dev38) (0.1.3)                                                                                                              
+           Requirement already satisfied: clr-loader<0.3.0,>=0.2.2 in c:\users\tzema\appdata\roaming\python\python310\site-packages (from                          subprocess.py:495
+           pythonnet>=3.0.0a1->toga-winforms>=0.3.0.dev38) (0.2.3)                                                                                                                  
+           Requirement already satisfied: cffi>=1.13 in c:\users\tzema\appdata\roaming\python\python310\site-packages (from                                        subprocess.py:495
+           clr-loader<0.3.0,>=0.2.2->pythonnet>=3.0.0a1->toga-winforms>=0.3.0.dev38) (1.15.1)                                                                                       
+           Requirement already satisfied: pycparser in c:\users\tzema\appdata\roaming\python\python310\site-packages (from                                         subprocess.py:495
+           cffi>=1.13->clr-loader<0.3.0,>=0.2.2->pythonnet>=3.0.0a1->toga-winforms>=0.3.0.dev38) (2.21)                                                                             
+[15:38:00] Installing collected packages: toga-core, toga-winforms                                                                                                 subprocess.py:495
+             Attempting uninstall: toga-core                                                                                                                       subprocess.py:495
+               Found existing installation: toga-core 0.3.0.dev37                                                                                                  subprocess.py:495
+               Uninstalling toga-core-0.3.0.dev37:                                                                                                                 subprocess.py:495
+                 Successfully uninstalled toga-core-0.3.0.dev37                                                                                                    subprocess.py:495
+[15:38:01]   Attempting uninstall: toga-winforms                                                                                                                   subprocess.py:495
+               Found existing installation: toga-winforms 0.3.0.dev37                                                                                              subprocess.py:495
+               Uninstalling toga-winforms-0.3.0.dev37:                                                                                                             subprocess.py:495
+                 Successfully uninstalled toga-winforms-0.3.0.dev37                                                                                                subprocess.py:495
+[15:38:06] Successfully installed toga-core-0.3.0.dev39 toga-winforms-0.3.0.dev39                                                                                  subprocess.py:495
+[15:38:07] >>> Return code: 0                                                                                                                                      subprocess.py:553
+           Installing dev dependencies... done                                                                                                                             dev.py:63
+                                                                                                                                                                          dev.py:166
+           [console] Starting in dev mode...                                                                                                                              dev.py:166
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Program Files\Python310\python.exe' -u -c 'import runpy, sys;sys.path.pop(0);runpy.run_module("console", run_name="__main__",               subprocess.py:518
+           alter_sys=True)'                                                                                                                                                         
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\tzema                                                                                                                                  subprocess.py:526
+           >>> Environment Overrides:                                                                                                                              subprocess.py:535
+           >>>     PYTHONPATH=C:\Users\tzema\Documents\GitHub\beeware-console\console\src                                                                          subprocess.py:537
+[15:38:08] Traceback (most recent call last):                                                                                                                      subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\pythonnet\__init__.py", line 69, in _create_runtime_from_spec                     subprocess.py:495
+               return clr_loader.get_netfx(**params)                                                                                                               subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\clr_loader\__init__.py", line 146, in get_netfx                                   subprocess.py:495
+               from .netfx import NetFx                                                                                                                            subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\clr_loader\netfx.py", line 5, in <module>                                         subprocess.py:495
+               from .ffi import ffi, load_netfx                                                                                                                    subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\clr_loader\ffi\__init__.py", line 11, in <module>                                 subprocess.py:495
+               ffi = cffi.FFI()  # type: ignore                                                                                                                    subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\cffi\api.py", line 48, in __init__                                                subprocess.py:495
+               import _cffi_backend as backend                                                                                                                     subprocess.py:495
+           ModuleNotFoundError: No module named '_cffi_backend'                                                                                                    subprocess.py:495
+                                                                                                                                                                   subprocess.py:495
+           The above exception was the direct cause of the following exception:                                                                                    subprocess.py:495
+                                                                                                                                                                   subprocess.py:495
+           Traceback (most recent call last):                                                                                                                      subprocess.py:495
+             File "<string>", line 1, in <module>                                                                                                                  subprocess.py:495
+             File "C:\Program Files\Python310\lib\runpy.py", line 224, in run_module                                                                               subprocess.py:495
+               return _run_module_code(code, init_globals, run_name, mod_spec)                                                                                     subprocess.py:495
+             File "C:\Program Files\Python310\lib\runpy.py", line 96, in _run_module_code                                                                          subprocess.py:495
+               _run_code(code, mod_globals, init_globals,                                                                                                          subprocess.py:495
+             File "C:\Program Files\Python310\lib\runpy.py", line 86, in _run_code                                                                                 subprocess.py:495
+               exec(code, run_globals)                                                                                                                             subprocess.py:495
+             File "C:\Users\tzema\Documents\GitHub\beeware-console\console\src\console\__main__.py", line 4, in <module>                                           subprocess.py:495
+               main().main_loop()                                                                                                                                  subprocess.py:495
+             File "C:\Users\tzema\Documents\GitHub\beeware-console\console\src\console\app.py", line 27, in main                                                   subprocess.py:495
+               return Console()                                                                                                                                    subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga\app.py", line 278, in __init__                                               subprocess.py:495
+               self.factory = get_platform_factory(factory)                                                                                                        subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga\platform.py", line 55, in get_platform_factory                               subprocess.py:495
+               from toga_winforms import factory                                                                                                                   subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga_winforms\factory.py", line 1, in <module>                                    subprocess.py:495
+               from .app import App, MainWindow                                                                                                                    subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga_winforms\app.py", line 7, in <module>                                        subprocess.py:495
+               from .keys import toga_to_winforms_key                                                                                                              subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga_winforms\keys.py", line 6, in <module>                                       subprocess.py:495
+               from .libs import WinForms                                                                                                                          subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga_winforms\libs\__init__.py", line 1, in <module>                              subprocess.py:495
+               from .fonts import (  # noqa: F401                                                                                                                  subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga_winforms\libs\fonts.py", line 13, in <module>                                subprocess.py:495
+               from .winforms import (                                                                                                                             subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\toga_winforms\libs\winforms.py", line 3, in <module>                              subprocess.py:495
+               import clr                                                                                                                                          subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\clr.py", line 6, in <module>                                                      subprocess.py:495
+               load()                                                                                                                                              subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\pythonnet\__init__.py", line 127, in load                                         subprocess.py:495
+               set_runtime_from_env()                                                                                                                              subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\pythonnet\__init__.py", line 110, in set_runtime_from_env                         subprocess.py:495
+               runtime = _create_runtime_from_spec(spec)                                                                                                           subprocess.py:495
+             File "C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\pythonnet\__init__.py", line 78, in _create_runtime_from_spec                     subprocess.py:495
+               raise RuntimeError(                                                                                                                                 subprocess.py:495
+           RuntimeError: Failed to create a default .NET runtime, which would                                                                                      subprocess.py:495
+                               have been "netfx" on this system. Either install a                                                                                  subprocess.py:495
+                               compatible runtime or configure it explicitly via                                                                                   subprocess.py:495
+                               `set_runtime` or the `PYTHONNET_*` environment variables                                                                            subprocess.py:495
+                               (see set_runtime_from_env).                                                                                                         subprocess.py:495
+           >>> Return code: 1                                                                                                                                      subprocess.py:553
+                                                                                                                                                                      __main__.py:27
+           Unable to start application 'console'                                                                                                                      __main__.py:28
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\dev.py:90 in run_dev_app                                                                        │
+│                                                                                                                                                                                  │
+│    87 │   │   """                                                                                                                                                                │
+│    88 │   │   try:                                                                                                                                                               │
+│    89 │   │   │   # Invoke the app.                                                                                                                                              │
+│ ❱  90 │   │   │   self.tools.subprocess.run(                                                                                                                                     │
+│    91 │   │   │   │   [                                                                                                                                                          │
+│    92 │   │   │   │   │   sys.executable,                                                                                                                                        │
+│    93 │   │   │   │   │   "-u",                                                                                                                                                  │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │     app = <com.example.console.console v0.0.1 AppConfig>                                       │                                                                               │
+│ │     env = {'PYTHONPATH': 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\src'} │                                                                               │
+│ │ options = {}                                                                                   │                                                                               │
+│ │    self = <briefcase.commands.dev.DevCommand object at 0x000001F4178A5990>                     │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\integrations\subprocess.py:110 in inner                                                                  │
+│                                                                                                                                                                                  │
+│   107 │   │   """                                                                                                                                                                │
+│   108 │   │   # Just run the command if no dynamic elements are active                                                                                                           │
+│   109 │   │   if not sub.tools.input.is_console_controlled:                                                                                                                      │
+│ ❱ 110 │   │   │   return sub_method(sub, args, **kwargs)                                                                                                                         │
+│   111 │   │                                                                                                                                                                      │
+│   112 │   │   remove_dynamic_elements = False                                                                                                                                    │
+│   113                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────────────────╮                 │
+│ │       args = ['C:\\Program Files\\Python310\\python.exe', '-u', '-c', 'import runpy, sys;sys.path.pop(0);runpy.run_module("console", run_name="__main__'+18] │                 │
+│ │     kwargs = {                                                                                                                                               │                 │
+│ │              │   'env': {'PYTHONPATH': 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\src'},                                                │                 │
+│ │              │   'check': True,                                                                                                                              │                 │
+│ │              │   'cwd': WindowsPath('C:/Users/tzema'),                                                                                                       │                 │
+│ │              │   'stream_output': True                                                                                                                       │                 │
+│ │              }                                                                                                                                               │                 │
+│ │        sub = <briefcase.integrations.subprocess.Subprocess object at 0x000001F41AA87A00>                                                                     │                 │
+│ │ sub_method = <function Subprocess.run at 0x000001F41AA04670>                                                                                                 │                 │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                 │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\integrations\subprocess.py:284 in run                                                                    │
+│                                                                                                                                                                                  │
+│   281 │   │   if stream_output or (                                                                                                                                              │
+│   282 │   │   │   self.tools.input.is_console_controlled and not is_output_redirected                                                                                            │
+│   283 │   │   ):                                                                                                                                                                 │
+│ ❱ 284 │   │   │   return self._run_and_stream_output(args, **kwargs)                                                                                                             │
+│   285 │   │                                                                                                                                                                      │
+│   286 │   │   # Otherwise, invoke run() normally.                                                                                                                                │
+│   287 │   │   self._log_command(args)                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────────────────────────────────╮    │
+│ │                 args = ['C:\\Program Files\\Python310\\python.exe', '-u', '-c', 'import runpy, sys;sys.path.pop(0);runpy.run_module("console", run_name="__main__'+18]    │    │
+│ │ is_output_redirected = None                                                                                                                                               │    │
+│ │               kwargs = {'env': {'PYTHONPATH': 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\src'}, 'check': True, 'cwd': WindowsPath('C:/Users/tzema')} │    │
+│ │                 self = <briefcase.integrations.subprocess.Subprocess object at 0x000001F41AA87A00>                                                                        │    │
+│ │        stream_output = True                                                                                                                                               │    │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯    │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\integrations\subprocess.py:350 in _run_and_stream_output                                                 │
+│                                                                                                                                                                                  │
+│   347 │   │   self._log_return_code(return_code)                                                                                                                                 │
+│   348 │   │                                                                                                                                                                      │
+│   349 │   │   if check and return_code:                                                                                                                                          │
+│ ❱ 350 │   │   │   raise subprocess.CalledProcessError(return_code, args, stderr=stderr)                                                                                          │
+│   351 │   │                                                                                                                                                                      │
+│   352 │   │   return subprocess.CompletedProcess(args, return_code, stderr=stderr)                                                                                               │
+│   353                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────────────────────────╮                │
+│ │        args = ['C:\\Program Files\\Python310\\python.exe', '-u', '-c', 'import runpy, sys;sys.path.pop(0);runpy.run_module("console", run_name="__main__'+18] │                │
+│ │       check = True                                                                                                                                            │                │
+│ │      kwargs = {                                                                                                                                               │                │
+│ │               │   'env': {'PYTHONPATH': 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\src'},                                                │                │
+│ │               │   'cwd': WindowsPath('C:/Users/tzema'),                                                                                                       │                │
+│ │               │   'stdout': -1,                                                                                                                               │                │
+│ │               │   'stderr': -2,                                                                                                                               │                │
+│ │               │   'bufsize': 1                                                                                                                                │                │
+│ │               }                                                                                                                                               │                │
+│ │     process = <Popen: returncode: 1 args: ['C:\\Program Files\\Python310\\python.exe', '-u...>                                                                │                │
+│ │ return_code = 1                                                                                                                                               │                │
+│ │        self = <briefcase.integrations.subprocess.Subprocess object at 0x000001F41AA87A00>                                                                     │                │
+│ │      stderr = None                                                                                                                                            │                │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+CalledProcessError: Command '['C:\\Program Files\\Python310\\python.exe', '-u', '-c', 'import runpy, sys;sys.path.pop(0);runpy.run_module("console", run_name="__main__", alter_sys=True)']' returned non-zero exit status 1.
+
+The above exception was the direct cause of the following exception:
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\__main__.py:21 in main                                                                                   │
+│                                                                                                                                                                                  │
+│   18 │   │   options = command.parse_options(extra=extra_cmdline)                                                                                                                │
+│   19 │   │   command.check_obsolete_data_dir()                                                                                                                                   │
+│   20 │   │   command.parse_config(Path.cwd() / "pyproject.toml")                                                                                                                 │
+│ ❱ 21 │   │   command(**options)                                                                                                                                                  │
+│   22 │   except HelpText as e:                                                                                                                                                   │
+│   23 │   │   logger.info()                                                                                                                                                       │
+│   24 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────── locals ─────────────────────────────────────╮                                                                                             │
+│ │       command = <briefcase.commands.dev.DevCommand object at 0x000001F4178A5990> │                                                                                             │
+│ │       Command = <class 'briefcase.commands.dev.DevCommand'>                      │                                                                                             │
+│ │       console = <briefcase.console.Console object at 0x000001F4178A4B50>         │                                                                                             │
+│ │             e = BriefcaseCommandError("Unable to start application 'console'")   │                                                                                             │
+│ │ extra_cmdline = []                                                               │                                                                                             │
+│ │        logger = <briefcase.console.Log object at 0x000001F4178A5B70>             │                                                                                             │
+│ │       options = {'appname': None, 'update_dependencies': False, 'run_app': True} │                                                                                             │
+│ │        result = 200                                                              │                                                                                             │
+│ ╰──────────────────────────────────────────────────────────────────────────────────╯                                                                                             │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\dev.py:168 in __call__                                                                          │
+│                                                                                                                                                                                  │
+│   165 │   │   if run_app:                                                                                                                                                        │
+│   166 │   │   │   self.logger.info("Starting in dev mode...", prefix=app.app_name)                                                                                               │
+│   167 │   │   │   env = self.get_environment(app)                                                                                                                                │
+│ ❱ 168 │   │   │   return self.run_dev_app(app, env, **options)                                                                                                                   │
+│   169                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────╮                                                           │
+│ │                 app = <com.example.console.console v0.0.1 AppConfig>                                               │                                                           │
+│ │             appname = None                                                                                         │                                                           │
+│ │      dist_info_path = WindowsPath('C:/Users/tzema/Documents/GitHub/beeware-console/console/src/console.dist-info') │                                                           │
+│ │                 env = {'PYTHONPATH': 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\src'}         │                                                           │
+│ │             options = {}                                                                                           │                                                           │
+│ │             run_app = True                                                                                         │                                                           │
+│ │                self = <briefcase.commands.dev.DevCommand object at 0x000001F4178A5990>                             │                                                           │
+│ │ update_dependencies = False                                                                                        │                                                           │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                           │
+│                                                                                                                                                                                  │
+│ C:\Users\tzema\AppData\Roaming\Python\Python310\site-packages\briefcase\commands\dev.py:107 in run_dev_app                                                                       │
+│                                                                                                                                                                                  │
+│   104 │   │   │   │   stream_output=True,                                                                                                                                        │
+│   105 │   │   │   )                                                                                                                                                              │
+│   106 │   │   except subprocess.CalledProcessError as e:                                                                                                                         │
+│ ❱ 107 │   │   │   raise BriefcaseCommandError(                                                                                                                                   │
+│   108 │   │   │   │   f"Unable to start application '{app.app_name}'"                                                                                                            │
+│   109 │   │   │   ) from e                                                                                                                                                       │
+│   110                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │     app = <com.example.console.console v0.0.1 AppConfig>                                       │                                                                               │
+│ │     env = {'PYTHONPATH': 'C:\\Users\\tzema\\Documents\\GitHub\\beeware-console\\console\\src'} │                                                                               │
+│ │ options = {}                                                                                   │                                                                               │
+│ │    self = <briefcase.commands.dev.DevCommand object at 0x000001F4178A5990>                     │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Unable to start application 'console'

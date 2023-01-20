@@ -321,6 +321,7 @@ class Console(toga.App):
         #--------end code---------#
 
     def startch(self,button):
+        #self.ch()
         self.add_background_task(self.ch)
 
     def startup(self):
@@ -344,8 +345,10 @@ class Console(toga.App):
         self.ok_button = toga.Button('Ok',on_press=self.ok)
         self.main_box.add(self.text_input)
         self.main_box.add(self.ok_button)
-        self.ch_button = toga.Button('Chometz Hunt', on_press=self.startch)
+        self.ch_button = toga.Button('Chometz Hunt', on_press=self.startch, style=Pack(text_align=CENTER,padding=(5,50)))
+        self.games = toga.Label("Games:", style=Pack(text_align=CENTER,padding=(5,10)))
         #self.startch(self.ch_button)
+        self.main_box.add(self.games)
         self.main_box.add(self.ch_button)
 
 

@@ -57,16 +57,16 @@ var/
 ## mpeltonen/sbt-idea plugin
 .idea_modules/
 
-!windows/*.msi
-!android/gradle/Console/app/build/outputs/apk/debug/*.apk
+#!windows/*.msi
+#!android/gradle/Console/app/build/outputs/apk/debug/*.apk
 # Briefcase build directories
-iOS/
-macOS/
-windows/
-android/
-linux/
-django/
+!iOS/
+!macOS/
+!windows/
+!android/
+!linux/
+!django/
 
 # Briefcase log files
-logs/
+!logs/
 
